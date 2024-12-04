@@ -64,9 +64,9 @@ This project helped me practice CSS styling techniques such as using gradients, 
 ## How to view the projects
 
 1. Clone the repository:  
-   `git clone <your-repository-url>`
+   `git clone <https://github.com/noeliapdp22/Learning-Web-Development.git>`
 
-2. Navigate to any project inside the `freecodecamp` folder and open the `index.html` file in your browser.
+2. Navigate to any project inside the folder and open the `index.html` file in your browser.
 
 ---
 
